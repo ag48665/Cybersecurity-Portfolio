@@ -164,7 +164,7 @@ GitHub:
 https://github.com/ag48665
 
 LinkedIn:
-(https://www.linkedin.com/in/agatha-gabara-06494a37/)
+https://www.linkedin.com/in/agatha-gabara-06494a37/
 
 ---
 
