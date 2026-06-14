@@ -322,5 +322,3 @@ LinkedIn:
 
 Cybersecurity Analyst | SOC Analyst | Threat Hunter
 
-
-
