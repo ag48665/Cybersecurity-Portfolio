@@ -164,7 +164,7 @@ GitHub:
 https://github.com/ag48665
 
 LinkedIn:
-(Add your LinkedIn URL)
+(https://www.linkedin.com/in/agatha-gabara-06494a37/)
 
 ---
 
