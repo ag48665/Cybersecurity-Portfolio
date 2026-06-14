@@ -1,324 +1,175 @@
-\# Cybersecurity Portfolio
+# Cybersecurity Portfolio
 
+## About Me
 
+Hello, I'm **Agata Gabara**, a cybersecurity enthusiast focused on Security Operations (SOC), Threat Hunting, Detection Engineering, Incident Response, and Blue Team Operations.
 
-\## About Me
+This repository serves as a central hub for my cybersecurity projects, hands-on labs, and security investigations developed using Splunk Enterprise, Sysmon, Windows Event Logs, Sigma Rules, and MITRE ATT&CK.
 
+---
 
+## Portfolio Overview
 
-Hello, I'm \*\*Agata Gabara\*\*, an aspiring Cybersecurity Analyst with hands-on experience in:
+| Project                          | Focus Area                                    |
+| -------------------------------- | --------------------------------------------- |
+| Splunk SOC Lab                   | Security Monitoring & SOC Operations          |
+| Splunk Detection Engineering Lab | Detection Development & Validation            |
+| Threat Hunting Lab               | Threat Hunting & Investigation                |
+| Incident Response Lab            | Incident Handling & Analysis                  |
+| Windows Forensics Lab            | Digital Forensics & Event Analysis            |
+| Active Directory Security Lab    | Authentication & Privileged Access Monitoring |
+| Sigma Detection Lab              | Sigma Rule Development                        |
+| Detection-as-Code Lab            | Detection Engineering & Rule Management       |
+| Purple Team Lab                  | Adversary Simulation & Detection Validation   |
+| Malware Analysis Lab             | IOC Extraction, YARA Rules & Malware Analysis |
 
+---
 
+## Featured Projects
 
-\* Security Operations Center (SOC) workflows
+### Detection Engineering
 
-\* Threat Hunting
+* Splunk Detection Engineering Lab
+* Detection-as-Code Lab
+* Sigma Detection Lab
 
-\* Detection Engineering
+### Threat Hunting
 
-\* Incident Response
+* Threat Hunting Lab
+* Purple Team Lab
 
-\* Active Directory Security Monitoring
+### Incident Response & Forensics
 
-\* Windows Forensics
+* Incident Response Lab
+* Windows Forensics Lab
 
-\* Sigma Rules
+### Active Directory Security
 
-\* Malware Analysis
+* Active Directory Security Lab
 
-\* MITRE ATT\&CK Mapping
+### Malware Analysis
 
-\* Splunk Enterprise
+* Malware Analysis Lab
 
+---
 
+## Technical Skills
 
-This repository serves as a central hub for my cybersecurity projects and labs.
+### SIEM & Monitoring
 
+* Splunk Enterprise
+* Windows Event Logs
+* Sysmon
 
+### Detection Engineering
 
-\---
+* Splunk SPL
+* Sigma Rules
+* Detection-as-Code
+* YARA Rules
 
+### Threat Hunting
 
+* IOC Investigation
+* Endpoint Telemetry Analysis
+* Windows Security Event Analysis
 
-\## Featured Projects
+### Incident Response
 
+* Security Investigation
+* Event Correlation
+* Forensic Analysis
+* Detection Validation
 
+### Frameworks
 
-\### Splunk SOC Lab
+* MITRE ATT&CK
 
+---
 
+## Key Competencies
 
-Windows Security Monitoring, Detection Engineering, Dashboards, and SOC workflows.
+* Security Monitoring
+* Threat Detection
+* Threat Hunting
+* Detection Engineering
+* Incident Response
+* Windows Forensics
+* Active Directory Security
+* Malware Analysis Fundamentals
+* Blue Team Operations
 
+---
 
+## Project Repositories
 
-Repository:
+### Splunk SOC Lab
 
 https://github.com/ag48665/Splunk-SOC-Lab
 
-
-
-\---
-
-
-
-\### Threat Hunting Lab
-
-
-
-Threat hunting investigations using Splunk and Sysmon telemetry.
-
-
-
-Repository:
-
-https://github.com/ag48665/Threat-Hunting-Lab
-
-
-
-\---
-
-
-
-\### Incident Response Lab
-
-
-
-Incident investigation workflow using Splunk, Sysmon, and Windows event logs.
-
-
-
-Repository:
-
-https://github.com/ag48665/Incident-Response-Lab
-
-
-
-\---
-
-
-
-\### Windows Forensics Lab
-
-
-
-Windows forensic investigations using endpoint telemetry and event analysis.
-
-
-
-Repository:
-
-https://github.com/ag48665/Windows-Forensics-Lab
-
-
-
-\---
-
-
-
-\### Active Directory Security Lab
-
-
-
-Authentication monitoring, privileged access detection, account creation monitoring, and group membership analysis.
-
-
-
-Repository:
-
-https://github.com/ag48665/Active-Directory-Security-Lab
-
-
-
-\---
-
-
-
-\### Splunk Detection Engineering Lab
-
-
-
-Detection development, validation, and MITRE ATT\&CK mapping.
-
-
-
-Repository:
+### Splunk Detection Engineering Lab
 
 https://github.com/ag48665/Splunk-Detection-Engineering-Lab
 
+### Threat Hunting Lab
 
+https://github.com/ag48665/Threat-Hunting-Lab
 
-\---
+### Incident Response Lab
 
+https://github.com/ag48665/Incident-Response-Lab
 
+### Windows Forensics Lab
 
-\### Detection-as-Code Lab
+https://github.com/ag48665/Windows-Forensics-Lab
 
+### Active Directory Security Lab
 
+https://github.com/ag48665/Active-Directory-Security-Lab
 
-Sigma rule development and detection engineering practices.
+### Sigma Detection Lab
 
+https://github.com/ag48665/Sigma-Detection-Lab
 
-
-Repository:
+### Detection-as-Code Lab
 
 https://github.com/ag48665/Detection-as-Code-Lab
 
-
-
-\---
-
-
-
-\### Purple Team Lab
-
-
-
-Attack simulation and detection validation using Splunk and Sysmon.
-
-
-
-Repository:
+### Purple Team Lab
 
 https://github.com/ag48665/Purple-Team-Lab
 
-
-
-\---
-
-
-
-\### Malware Analysis Lab
-
-
-
-Malware analysis documentation, IOC extraction, YARA rules, and MITRE ATT\&CK mapping.
-
-
-
-Repository:
+### Malware Analysis Lab
 
 https://github.com/ag48665/Malware-Analysis-Lab
 
+---
 
+## Career Objective
 
-\---
+Currently developing practical experience in:
 
+* SOC Operations
+* Threat Detection
+* Threat Hunting
+* Detection Engineering
+* Incident Response
+* Security Monitoring
 
+---
 
-\## Technical Skills
-
-
-
-\### SIEM
-
-
-
-\* Splunk Enterprise
-
-
-
-\### Detection Engineering
-
-
-
-\* Splunk SPL
-
-\* Sigma Rules
-
-\* Detection-as-Code
-
-
-
-\### Threat Hunting
-
-
-
-\* Sysmon Analysis
-
-\* Windows Event Analysis
-
-\* IOC Investigation
-
-
-
-\### Security Frameworks
-
-
-
-\* MITRE ATT\&CK
-
-
-
-\### Blue Team Operations
-
-
-
-\* Incident Response
-
-\* Threat Hunting
-
-\* Security Monitoring
-
-\* Windows Forensics
-
-
-
-\---
-
-
-
-\## Career Focus
-
-
-
-I am currently focused on developing practical skills in:
-
-
-
-\* SOC Operations
-
-\* Threat Detection
-
-\* Detection Engineering
-
-\* Incident Response
-
-\* Threat Hunting
-
-
-
-\---
-
-
-
-\## Connect With Me
-
-
+## Connect With Me
 
 GitHub:
-
 https://github.com/ag48665
 
-
-
 LinkedIn:
+(Add your LinkedIn URL)
 
-(Add your LinkedIn profile URL)
+---
 
+## Author
 
-
-\---
-
-
-
-\## Author
-
-
-
-\*\*Agata Gabara\*\*
-
-
+**Agata Gabara**
 
 Cybersecurity Analyst | SOC Analyst | Threat Hunter
-
