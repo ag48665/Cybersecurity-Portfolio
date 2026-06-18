@@ -111,6 +111,10 @@ https://github.com/ag48665/Splunk-SOC-Lab
 
 https://github.com/ag48665/Splunk-Detection-Engineering-Lab
 
+## Splunk Detection Library
+
+https://github.com/ag48665/Splunk-Detection-Library
+
 ### Threat Hunting Lab
 
 https://github.com/ag48665/Threat-Hunting-Lab
