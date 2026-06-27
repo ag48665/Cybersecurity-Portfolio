@@ -10,18 +10,23 @@ This repository serves as a central hub for my cybersecurity projects, hands-on 
 
 ## Portfolio Overview
 
-| Project                          | Focus Area                                    |
-| -------------------------------- | --------------------------------------------- |
-| Splunk SOC Lab                   | Security Monitoring & SOC Operations          |
-| Splunk Detection Engineering Lab | Detection Development & Validation            |
-| Threat Hunting Lab               | Threat Hunting & Investigation                |
-| Incident Response Lab            | Incident Handling & Analysis                  |
-| Windows Forensics Lab            | Digital Forensics & Event Analysis            |
-| Active Directory Security Lab    | Authentication & Privileged Access Monitoring |
-| Sigma Detection Lab              | Sigma Rule Development                        |
-| Detection-as-Code Lab            | Detection Engineering & Rule Management       |
-| Purple Team Lab                  | Adversary Simulation & Detection Validation   |
-| Malware Analysis Lab             | IOC Extraction, YARA Rules & Malware Analysis |
+| Project                               | Focus Area                                       |
+| ------------------------------------- | ------------------------------------------------ |
+| Microsoft Defender Security Analytics | Security Analytics, Power BI, Python ETL, SQL    |
+| Splunk SOC Lab                        | Security Monitoring & SOC Operations             |
+| Splunk Detection Engineering Lab      | Detection Engineering & Validation               |
+| Threat Hunting Lab                    | Threat Hunting & Investigation                   |
+| Incident Response Lab                 | Incident Handling & Analysis                     |
+| Windows Forensics Lab                 | Digital Forensics                                |
+| Autopsy Insider Investigation         | Digital Forensics & Insider Threat Investigation |
+| Active Directory Security Lab         | Authentication & Privileged Access Monitoring    |
+| Sigma Detection Lab                   | Sigma Rule Development                           |
+| Detection-as-Code Lab                 | Detection Engineering & Rule Management          |
+| Purple Team Lab                       | Adversary Simulation & Detection Validation      |
+| Malware Analysis Lab                  | Malware Analysis & YARA                          |
+| Lumma Stealer Network Analysis        | Malware Network Traffic Analysis                 |
+| Network Traffic Analysis              | Wireshark, PCAP Analysis & Network Forensics     |
+
 
 ---
 
@@ -103,49 +108,73 @@ This repository serves as a central hub for my cybersecurity projects, hands-on 
 
 ## Project Repositories
 
-### Splunk SOC Lab
+### SIEM & Security Analytics
 
-https://github.com/ag48665/Splunk-SOC-Lab
+* Microsoft Defender Security Analytics
+  https://github.com/ag48665/microsoft-defender-security-analytics
 
-### Splunk Detection Engineering Lab
+* Splunk SOC Lab
+  https://github.com/ag48665/Splunk-SOC-Lab
 
-https://github.com/ag48665/Splunk-Detection-Engineering-Lab
+* Splunk Detection Engineering Lab
+  https://github.com/ag48665/Splunk-Detection-Engineering-Lab
 
-## Splunk Detection Library
+* Splunk Detection Library
+  https://github.com/ag48665/Splunk-Detection-Library
 
-https://github.com/ag48665/Splunk-Detection-Library
+---
 
-### Threat Hunting Lab
+### Threat Hunting & Detection Engineering
 
-https://github.com/ag48665/Threat-Hunting-Lab
+* Threat Hunting Lab
+  https://github.com/ag48665/Threat-Hunting-Lab
 
-### Incident Response Lab
+* Sigma Detection Lab
+  https://github.com/ag48665/Sigma-Detection-Lab
 
-https://github.com/ag48665/Incident-Response-Lab
+* Detection-as-Code Lab
+  https://github.com/ag48665/Detection-as-Code-Lab
 
-### Windows Forensics Lab
+* Purple Team Lab
+  https://github.com/ag48665/Purple-Team-Lab
 
-https://github.com/ag48665/Windows-Forensics-Lab
+---
 
-### Active Directory Security Lab
+### Incident Response & Digital Forensics
 
-https://github.com/ag48665/Active-Directory-Security-Lab
+* Incident Response Lab
+  https://github.com/ag48665/Incident-Response-Lab
 
-### Sigma Detection Lab
+* Windows Forensics Lab
+  https://github.com/ag48665/Windows-Forensics-Lab
 
-https://github.com/ag48665/Sigma-Detection-Lab
+* Autopsy Insider Investigation
+  https://github.com/ag48665/autopsy-insider-investigation
 
-### Detection-as-Code Lab
+---
 
-https://github.com/ag48665/Detection-as-Code-Lab
+### Malware Analysis
 
-### Purple Team Lab
+* Malware Analysis Lab
+  https://github.com/ag48665/Malware-Analysis-Lab
 
-https://github.com/ag48665/Purple-Team-Lab
+* Lumma Stealer Network Analysis
+  https://github.com/ag48665/lumma-stealer-network-analysis
 
-### Malware Analysis Lab
+---
 
-https://github.com/ag48665/Malware-Analysis-Lab
+### Network Security
+
+* Network Traffic Analysis
+  https://github.com/ag48665/network-traffic-analysis
+
+---
+
+### Active Directory Security
+
+* Active Directory Security Lab
+  https://github.com/ag48665/Active-Directory-Security-Lab
+
 
 ---
 
