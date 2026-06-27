@@ -25,8 +25,8 @@ This repository serves as a central hub for my cybersecurity projects, hands-on 
 | Purple Team Lab                       | Adversary Simulation & Detection Validation      |
 | Malware Analysis Lab                  | Malware Analysis & YARA                          |
 | Lumma Stealer Network Analysis        | Malware Network Traffic Analysis                 |
-| Network Traffic Analysis              | Wireshark, PCAP Analysis & Network Forensics     |
-
+| Network Traffic Analysis              | Wireshark, PCAP Analysis & Network Forensics                                                                               |   
+| Microsoft Sentinel SOC Lab            | SIEM, KQL, Threat Hunting, Detection Engineering |
 
 ---
 
@@ -106,12 +106,13 @@ This repository serves as a central hub for my cybersecurity projects, hands-on 
 
 ---
 
-## Project Repositories
-
 ### SIEM & Security Analytics
 
 * Microsoft Defender Security Analytics
   https://github.com/ag48665/microsoft-defender-security-analytics
+
+* Microsoft Sentinel SOC Lab
+  https://github.com/ag48665/Microsoft-Sentinel-SOC-Lab
 
 * Splunk SOC Lab
   https://github.com/ag48665/Splunk-SOC-Lab
@@ -121,6 +122,16 @@ This repository serves as a central hub for my cybersecurity projects, hands-on 
 
 * Splunk Detection Library
   https://github.com/ag48665/Splunk-Detection-Library
+
+---
+
+### SIEM & Monitoring
+
+* Microsoft Sentinel
+* Azure Log Analytics
+* Splunk Enterprise
+* Windows Event Logs
+* Sysmon
 
 ---
 
